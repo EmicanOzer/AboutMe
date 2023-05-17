@@ -22,6 +22,3 @@ I'm currently working on:JavaScript,HTML,CSS,Bootstrap,Python,Figma
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmicanOzer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
